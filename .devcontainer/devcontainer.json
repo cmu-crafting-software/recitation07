@@ -1,0 +1,8 @@
+{
+  "features": { "ghcr.io/jsburckhardt/devcontainer-features/uv:1": {} },
+  "customizations": {
+    "vscode": {
+      "extensions": ["github.vscode-github-actions", "ms-python.python"]
+    }
+  }
+}
