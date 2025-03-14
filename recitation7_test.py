@@ -1,3 +1,7 @@
+def test_strings():
+    assert "hello" + "worlb" == "helloworlb"
+
+
 def test_numbers():
     assert 1 + 3 == 4
 
